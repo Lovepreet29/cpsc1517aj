@@ -1,0 +1,25 @@
+.site-nav{
+    padding: 1.5rem;
+    box-shadow: 0 0 5px grey;
+}
+.icon-view{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.button{
+    background: transparent;
+    border: none;
+    box-shadow: 0 0 5px 0 grey;
+    padding: 0.5rem 1rem;
+}
+.window{
+    box-shadow: 0 0 5px 0 grey;
+    width: 40vw;
+    height: 50vh;
+    margin: 5rem auto;
+    text-align: center;
+}
+.hidden{
+    display: none;
+}
